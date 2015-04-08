@@ -1,2 +1,2 @@
 # demoGit
-une démo de GIT
+une démo de GIT qui se passe de commentaire ……
